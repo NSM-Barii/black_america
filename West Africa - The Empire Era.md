@@ -1,0 +1,78 @@
+# West Africa: The Empire Era
+
+Most people think of Africa as a place that was "discovered" or "civilized" by Europeans. That is a lie built on deliberate erasure. Here is what was actually there.
+
+---
+
+## The Ghana Empire (300–1200 AD)
+
+Not modern-day Ghana — this empire sat in what is now southeastern Mauritania and western Mali. It was built on controlling the gold and salt trade between North and Sub-Saharan Africa. Gold came from the south, salt came from the north, and Ghana sat in the middle taxing everything that moved.
+
+By the time Arab scholars were writing about it in the 9th century, Ghana's king commanded an army of 200,000 men. The capital Kumbi Saleh had two cities — one for Muslims, one for the king's traditional religion. That is not primitive. That is sophisticated multicultural governance.
+
+---
+
+## The Mali Empire (1235–1600 AD)
+
+Mali rose after Ghana declined. Its most famous ruler was **[[Mansa Musa]]**, who ruled from 1312–1337. He is documented by historians as the **wealthiest individual in all of human history** — not black history, ALL of human history. His wealth in today's dollars is estimated at $400 billion, though some economists say it is simply uncalculable.
+
+In 1324 he made his **Hajj to Mecca**. He traveled with:
+- 60,000 people
+- 12,000 servants
+- 500 slaves each carrying a gold staff
+- 80 camels each carrying 300 pounds of gold dust
+
+He gave away so much gold in Egypt that he **crashed the Egyptian economy** — gold was so flooded into the market that its value did not recover for 12 years.
+
+European mapmakers put his image on maps with a gold nugget in his hand. The world knew who he was.
+
+---
+
+## Timbuktu and Sankore University
+
+Under Mali and later Songhai, Timbuktu became one of the most important intellectual cities in the world. At its peak it had a population of 100,000 people — massive for the medieval era.
+
+**[[Sankore University]]** had 25,000 students at a time when Oxford was just getting started. Scholars came from across Africa, the Middle East, and Europe to study:
+- Theology
+- Law
+- Mathematics
+- Astronomy
+- Medicine
+
+Over **1 million manuscripts** were produced — many still being digitized and recovered today at the Ahmed Baba Institute in Timbuktu.
+
+---
+
+## The Songhai Empire (1375–1591 AD)
+
+The largest of the three empires. At its peak under **[[Askia Muhammad]]** (1493–1528), Songhai was larger than Western Europe. Askia:
+- Reformed the government
+- Standardized weights and measures
+- Built a professional bureaucracy
+- Expanded Timbuktu as a global intellectual center
+
+It fell in 1591 not because it was weak — Morocco invaded with gunpowder weapons that Songhai's cavalry could not match. Technology ended it, not civilization.
+
+---
+
+## The Bottom Line
+
+While Europe was in its Dark Ages — plagues, feudalism, widespread illiteracy — West Africa had:
+- Empires with professional armies
+- Universities with tens of thousands of students
+- International trade networks spanning continents
+- Sophisticated governance systems
+- Global cultural and intellectual influence
+
+This is not mythology. This is documented by Arab scholars, European mapmakers, and modern archaeology.
+
+---
+
+## Connected Topics
+- [[Mansa Musa]]
+- [[Sankore University]]
+- [[Askia Muhammad]]
+- [[Timbuktu]]
+- [[The Transatlantic Slave Trade]]
+- [[Malcolm X]]
+- [[Pan-Africanism]]
