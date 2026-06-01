@@ -146,6 +146,29 @@ The mechanisms are always the same:
 
 ---
 
+## Sources
+
+**Primary Documents — The Papal Bulls**
+- Pope Nicholas V, *Dum Diversas* (1452) — full text available via the Papal Encyclicals Online archive
+- Pope Nicholas V, *Romanus Pontifex* (1455) — full text available via the Papal Encyclicals Online archive
+
+**Primary Sources — Eyewitness Accounts**
+- Gomes Eanes de Zurara, *Chronicle of the Discovery and Conquest of Guinea* (1453) — earliest documented account of the Atlantic slave trade including the 1444 Lagos sale
+
+**On Scientific Racism**
+- Samuel Morton, *Crania Americana* (1839) — the fraudulent skull measurement study; primary source
+- Stephen Jay Gould, *The Mismeasure of Man* (1981) — the definitive takedown of Morton's methodology; proved the measurements were unconsciously manipulated
+- Johann Friedrich Blumenbach, *On the Natural Variety of Mankind* (1795) — origin of the term "Caucasian" and the racial hierarchy
+
+**On European Justification Frameworks**
+- Winthrop Jordan, *White Over Black: American Attitudes Toward the Negro 1550–1812* (1968) — Pulitzer Prize-winning history of how racial ideology developed in the Anglo-American world
+- David Brion Davis, *The Problem of Slavery in Western Culture* (1966) — on how slavery was morally justified across European intellectual traditions
+
+**On the Code Noir**
+- Louis XIV, *Code Noir* (1685) — primary document; full text available at the French National Archives
+
+---
+
 ## Connected Topics
 - [[the_transatlantic_slave_trade]]
 - [[the_middle_passage_and_the_breaking_process]]

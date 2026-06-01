@@ -84,7 +84,7 @@ The Rainbow Coalition collapsed without Hampton's leadership. The FBI's goal was
 ## Marcus Garvey and the UNIA — 1920s
 
 **What was built:**
-The Universal Negro Improvement Association was the largest black mass movement in history — 6 million members across the United States, Caribbean, and Africa. Garvey built:
+The Universal Negro Improvement Association was the largest black mass movement in history — Garvey claimed 6 million members across the United States, Caribbean, and Africa, though historians estimate 1–2 million at peak. Garvey built:
 - The Black Star Line shipping company — black owned, black operated
 - Negro Factories Corporation — promoting black owned businesses
 - A global Pan-African movement connecting the diaspora
@@ -155,6 +155,35 @@ This is not coincidence. This is a documented pattern of deliberate suppression.
 Understanding this pattern is essential for understanding [[Malcolm X]] — he lived inside this pattern his entire life. His father Earl Little was a Garveyite whose house was burned down and who was later killed under suspicious circumstances. Malcolm himself was surveilled by the FBI, infiltrated by informants, and assassinated at 39 years old.
 
 The pattern didn't happen to him. He was born into it.
+
+---
+
+## Sources
+
+**Black Wall Street / Tulsa Race Massacre**
+- Oklahoma Commission to Study the Tulsa Race Riot of 1921, *Tulsa Race Riot: A Report by the Oklahoma Commission* (2001) — the official state investigation; available at the Oklahoma Historical Society
+- Scott Ellsworth, *Death in a Promised Land: The Tulsa Race Riot of 1921* (1982) — the foundational academic history
+
+**Reconstruction**
+- Eric Foner, *Reconstruction: America's Unfinished Revolution 1863–1877* (1988) — the definitive academic history of Reconstruction and its violent destruction
+- Douglas Egerton, *The Wars of Reconstruction* (2014) — on the paramilitary campaigns that overthrew Reconstruction governments
+
+**Fred Hampton / COINTELPRO**
+- FBI COINTELPRO files — declassified documents available at [vault.fbi.gov](https://vault.fbi.gov) (search "COINTELPRO")
+- Jeffrey Haas, *The Assassination of Fred Hampton* (2010) — written by Hampton's attorney; draws on trial evidence and FBI documents
+- Ward Churchill & Jim Vander Wall, *The COINTELPRO Papers* (1990) — comprehensive analysis of declassified FBI documents
+
+**Marcus Garvey / FBI Targeting**
+- FBI Garvey files — declassified; available at [vault.fbi.gov](https://vault.fbi.gov) (search "Marcus Garvey")
+- Theodore Kornweibel Jr., *"Seeing Red": Federal Campaigns Against Black Militancy 1919–1925* (1998)
+
+**The Black Panther Party**
+- Joshua Bloom & Waldo Martin, *Black Against Empire: The History and Politics of the Black Panther Party* (2013) — the most comprehensive academic history
+- Huey P. Newton, *Revolutionary Suicide* (1973) — primary source
+
+**Martin Luther King Jr.**
+- Taylor Branch, *At Canaan's Edge: America in the King Years 1965–68* (2006) — the third volume of Branch's definitive trilogy
+- King family vs. Loyd Jowers, Civil Case No. 97242 (1999), Shelby County Circuit Court — court record
 
 ---
 

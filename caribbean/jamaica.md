@@ -126,6 +126,26 @@ Jamaica today has significant poverty, crime, and inequality. The history answer
 
 ---
 
+## Sources
+
+**On the Maroons**
+- Mavis Campbell, *The Maroons of Jamaica 1655–1796* (1988) — the definitive academic history of the Maroon Wars and the 1739 treaty
+- Richard Price (ed.), *Maroon Societies: Rebel Slave Communities in the Americas* (1979)
+
+**On Queen Nanny**
+- Karla Gottlieb, *"The Mother of Us All": A History of Queen Nanny, Leader of the Windward Jamaican Maroons* (2000)
+
+**On the Baptist War**
+- Mary Turner, *Slaves and Missionaries: The Disintegration of Jamaican Slave Society 1787–1834* (1982) — the standard academic history of the Baptist War
+- Michael Craton, *Testing the Chains: Resistance to Slavery in the British West Indies* (1982)
+
+**On Emancipation and Compensation**
+- Nicholas Draper, *The Price of Emancipation: Slave-Ownership, Compensation and British Society at the End of Slavery* (2010)
+- UCL Centre for the Study of the Legacies of British Slave-ownership — database of compensation payments; [ucl.ac.uk/lbs](https://www.ucl.ac.uk/lbs)
+
+**On Marcus Garvey's Jamaican Roots**
+- Colin Grant, *Negro with a Hat: The Rise and Fall of Marcus Garvey* (2008)
+
 ## Key Figures
 - **[[Queen Nanny]]** — Asante warrior, military genius, freed 1,000+ enslaved people
 - **[[Samuel Sharpe]]** — led the Baptist War 1831, directly caused British abolition

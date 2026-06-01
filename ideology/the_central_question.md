@@ -64,6 +64,16 @@ Proposed answers from various thinkers:
 
 ---
 
+## Sources
+
+- Eric Foner, *Reconstruction: America's Unfinished Revolution 1863–1877* (1988) — on the Reconstruction precedent and its destruction
+- Marcus Garvey, *Philosophy and Opinions of Marcus Garvey* (1923) — primary source on the separatist argument
+- W.E.B. Du Bois, *The Souls of Black Folk* (1903) — primary source on the integrationist argument
+- Scott Ellsworth, *Death in a Promised Land* (1982) — on Black Wall Street and its destruction
+- Cedric Robinson, *Black Marxism: The Making of the Black Radical Tradition* (1983) — on the structural limits of working within capitalist systems
+
+---
+
 ## Connected Topics
 - [[Black Nationalism — The Philosophy]]
 - [[Marcus Garvey]]

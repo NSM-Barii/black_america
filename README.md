@@ -4,21 +4,33 @@
 
 ---
 
+## Why I'm Doing This
+
+I have a platform. And for a long time I didn't fully understand what that meant.
+
+Then hundreds of Black people started commenting on my videos and sliding in my DMs telling me they were happy to see someone who looked like them — someone they could actually relate to. That hit different. It made me look at life completely differently.
+
+I realized that the platform I've built isn't just mine. It carries weight for people who see themselves in me. And if that's true then I have a responsibility to do something real with it — not just content, not just entertainment, but actually pushing for something that matters.
+
+So that's what this is. I want to see the Black community win. I want to see us do great things — build, thrive, and be recognized for the greatness that's always been there. And I can't push for that effectively if I don't understand where we come from, what we've been through, and what's been done to us to keep us from getting there.
+
+This vault is me building that foundation. Learning Black history the real way — not the sanitized version they taught in school. Learning about the empires, the slave trade, the resistance, the destruction of everything we built, the philosophy of Black nationalism, and where we stand today.
+
+I'm learning so I can speak with knowledge. And I'm going to use that knowledge to advocate for Black greatness — unapologetically.
+
+---
+
 ## What This Is
 
-This is my personal knowledge base on black nationalism, African heritage, Caribbean history, and black excellence — built note by note as I go deeper into the history, philosophy, and thinkers that shaped the black experience across the world.
+A personal knowledge base built note by note — Black history, Black philosophy, Black resistance, and the current state of Black America. Built on one principle: **full truth only, no propaganda in either direction.**
 
-This isn't a textbook. It's a living document — raw, honest, and built on one principle: **full truth only, no propaganda in either direction.**
-
-Every note in here I have read, studied, and been tested on before it was written. Nothing goes in until I understand it.
+Every note in here I've studied before it was written. Nothing goes in until it's understood.
 
 ---
 
 ## Who I Am
 
-I'm **Bari** — a student of this history, currently reading *The Autobiography of Malcolm X* and building this vault alongside it. I started this because I realized most of what I thought I knew about black history was surface level at best and deliberately distorted at worst.
-
-This is me doing the work to fix that.
+I'm **Bari**. Currently reading *The Autobiography of Malcolm X* and building this alongside it.
 
 ---
 
@@ -26,38 +38,41 @@ This is me doing the work to fix that.
 
 ```
 black_america/
-├── foundations/        — the theory, philosophy, and history that applies everywhere
-├── caribbean/          — island by island breakdown of slavery and resistance
-└── americas/
-    └── united_states/  — US specific history, movements, and figures
+├── africa/           — pre-colonial Africa, before the slave trade
+├── slave_trade/      — how it worked, the crossing, the justification, the resistance
+├── caribbean/        — island by island
+├── united_states/    — US specific history, chronological
+└── ideology/         — philosophy and thinkers that apply across all geographies
 ```
 
 ---
 
-## Foundations
-
-The root layer. Start here before anything else.
+## Africa
 
 | Note | What It Covers |
 |------|----------------|
-| [West Africa — The Empire Era](foundations/west_africa_the_empire_era.md) | Ghana, Mali, Songhai, Mansa Musa, Timbuktu — what existed before colonization |
-| [The Transatlantic Slave Trade](foundations/the_transatlantic_slave_trade.md) | How it worked, the numbers, African complicity, what it destroyed |
-| [The Middle Passage & The Breaking Process](foundations/the_middle_passage_and_the_breaking_process.md) | The ocean crossing, tight packing, the systematic destruction of identity |
-| [African Resistance — The Ones Who Fought Back](foundations/african_resistance_the_ones_who_fought_back.md) | 400+ ship revolts, Haiti, Nat Turner, Harriet Tubman — the resistance that gets erased |
-| [Black Nationalism — The Philosophy](foundations/black_nationalism_the_philosophy.md) | The actual ideology, Garvey vs Du Bois, the central tensions |
-| [When They Came For Us](foundations/when_they_came_for_us_black_excellence_destroyed_by_the_system.md) | Black Wall Street, Reconstruction, Fred Hampton — the documented pattern of suppression |
-| [The Central Question](foundations/the_central_question_build_within_or_outside_the_system.md) | Build within or outside the system? A developing political argument |
+| [West African Empires](africa/west_african_empires.md) | Ghana, Mali, Songhai, Mansa Musa, Timbuktu — what existed before colonization |
+| [Sankore University](africa/sankore_university.md) | 🔜 Coming |
+
+---
+
+## The Slave Trade
+
+| Note | What It Covers |
+|------|----------------|
+| [The Transatlantic Slave Trade](slave_trade/the_transatlantic_slave_trade.md) | How it worked, the numbers, African complicity, what it destroyed |
+| [The Middle Passage](slave_trade/the_middle_passage.md) | The ocean crossing, tight packing, the systematic destruction of identity |
+| [How They Justified Slavery](slave_trade/how_they_justified_slavery.md) | The Church, the Bible, pseudo-science — the full ideological machinery |
+| [African Resistance](slave_trade/african_resistance.md) | 400+ ship revolts, Haiti, Nat Turner, Harriet Tubman — the resistance that gets erased |
 
 ---
 
 ## Caribbean
 
-Island by island — how slavery was built, how people resisted, and what the legacy looks like today.
-
 | Island | Colonial Power | Status |
 |--------|---------------|--------|
 | [Haiti](caribbean/haiti.md) | France | ✅ Complete |
-| Jamaica | Britain | 🔜 Coming |
+| [Jamaica](caribbean/jamaica.md) | Britain | ✅ Complete |
 | Barbados | Britain | 🔜 Coming |
 | Cuba | Spain | 🔜 Coming |
 | Trinidad & Tobago | Britain / Spain | 🔜 Coming |
@@ -67,91 +82,49 @@ Island by island — how slavery was built, how people resisted, and what the le
 
 ---
 
-## Americas
+## United States
 
 | Note | What It Covers |
 |------|----------------|
-| United States | 🔜 Coming |
+| [Reconstruction](united_states/reconstruction.md) | 1865–1877 — what Black Americans built and how it was violently destroyed |
+| [Slavery by Another Name](united_states/slavery_by_another_name.md) | Convict leasing and debt peonage — slavery rebuilt under the 13th Amendment exception |
+| [Black Wall Street](united_states/black_wall_street.md) | 🔜 Coming |
+| [Jim Crow](united_states/jim_crow.md) | Legal apartheid, Plessy v Ferguson, lynching, disenfranchisement, redlining |
+| [The Great Migration](united_states/the_great_migration.md) | 6 million Black Americans leave the South 1910–1970 and what they found |
+| [Civil Rights Movement](united_states/civil_rights_movement.md) | Brown v Board through 1968 — the victories, the violence, and what didn't change |
+| [COINTELPRO](united_states/cointelpro.md) | The FBI's documented war on Black political organizations |
+| [The War on Drugs](united_states/the_war_on_drugs.md) | Nixon's admission, crack/powder disparity, the racial intent behind the policy |
+| [Mass Incarceration](united_states/mass_incarceration.md) | The prison system as racial control — the 13th Amendment exception still in use |
+| [When They Came For Us](united_states/when_they_came_for_us.md) | Black Wall Street, Fred Hampton, Garvey — the documented pattern of suppression |
+| [Black America Today](united_states/black_america_today.md) | Current state across wealth, income, health, incarceration, and representation |
 
 ---
 
-## Knowledge Graph
+## Ideology
 
-How everything in this vault connects — built from the links inside each note.
-
-```mermaid
-graph TD
-    WA[West Africa: The Empire Era] --> MS[Mansa Musa]
-    WA --> SU[Sankore University]
-    WA --> TT[The Transatlantic Slave Trade]
-    WA --> PA[Pan-Africanism]
-
-    TT --> MP[The Middle Passage & The Breaking Process]
-    TT --> AR[African Resistance: The Ones Who Fought Back]
-    TT --> MX[Malcolm X]
-
-    MP --> MX
-    AR --> MX
-    AR --> TL[Toussaint L'Ouverture]
-    AR --> HT[Harriet Tubman]
-    AR --> HAI[Haiti]
-
-    BN[Black Nationalism: The Philosophy] --> MG[Marcus Garvey]
-    BN --> DB[W.E.B. Du Bois]
-    BN --> MD[Martin Delany]
-    BN --> EM[Elijah Muhammad]
-    BN --> MX
-    BN --> PA
-
-    MG --> MX
-    EM --> MX
-
-    WTC[When They Came For Us] --> MG
-    WTC --> MX
-    WTC --> BN
-    WTC --> AR
-    WTC --> FH[Fred Hampton]
-    WTC --> BP[The Black Panther Party]
-    WTC --> CO[COINTELPRO]
-
-    CQ[The Central Question] --> BN
-    CQ --> MG
-    CQ --> DB
-    CQ --> MX
-    CQ --> PA
-
-    MX --> CQ
-    MX --> BN
-    MX --> PA
-
-    HAI --> TL
-    HAI --> DB2[Dutty Boukman]
-    HAI --> JD[Jean-Jacques Dessalines]
-    HAI --> TT
-```
+| Note | What It Covers |
+|------|----------------|
+| [Black Nationalism](ideology/black_nationalism.md) | The actual ideology, Garvey vs Du Bois, the central tensions |
+| [Pan-Africanism](ideology/pan_africanism.md) | 🔜 Coming |
+| [The Central Question](ideology/the_central_question.md) | Build within or outside the system? A developing political argument |
+| [Malcolm X](ideology/malcolm_x.md) | Full biography — origins, NOI years, post-Mecca evolution, assassination |
 
 ---
 
-## The Reading Order
+## Reading Order
 
-If you're new here, start with the foundations in this order:
+Start here if you're new:
 
-1. West Africa — The Empire Era
-2. The Transatlantic Slave Trade
-3. The Middle Passage & The Breaking Process
-4. African Resistance — The Ones Who Fought Back
-5. Black Nationalism — The Philosophy
-6. When They Came For Us
-7. The Central Question
-8. Haiti
-
----
-
-## Built With
-
-- [Obsidian](https://obsidian.md) — note taking and knowledge graph
-- Primary sources, academic historians, and documented facts
-- No shortcuts. No propaganda.
+1. [West African Empires](africa/west_african_empires.md)
+2. [The Transatlantic Slave Trade](slave_trade/the_transatlantic_slave_trade.md)
+3. [The Middle Passage](slave_trade/the_middle_passage.md)
+4. [How They Justified Slavery](slave_trade/how_they_justified_slavery.md)
+5. [African Resistance](slave_trade/african_resistance.md)
+6. [Haiti](caribbean/haiti.md)
+7. [Jamaica](caribbean/jamaica.md)
+8. [Black Nationalism](ideology/black_nationalism.md)
+9. [Malcolm X](ideology/malcolm_x.md)
+10. [Reconstruction](united_states/reconstruction.md) → through to [Black America Today](united_states/black_america_today.md)
 
 ---
 

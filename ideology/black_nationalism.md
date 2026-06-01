@@ -53,7 +53,7 @@ He was largely forgotten by mainstream history. He shouldn't be.
 
 The most important black nationalist figure before Malcolm X. Possibly the most influential black leader in history in terms of mass movement building.
 
-Garvey was born in Jamaica and founded the **Universal Negro Improvement Association (UNIA)** in 1914. At its peak in the 1920s it had an estimated **6 million members** across the United States, Caribbean, and Africa. The largest black mass movement in history up to that point.
+Garvey was born in Jamaica and founded the **Universal Negro Improvement Association (UNIA)** in 1914. At its peak in the 1920s Garvey claimed **6 million members** across the United States, Caribbean, and Africa — historians estimate the real figure closer to 1–2 million. Still the largest black mass movement in history up to that point.
 
 His philosophy — Pan-Africanism and black nationalism combined:
 - Black people worldwide are one people connected by African ancestry and shared oppression
@@ -118,6 +118,30 @@ Do you work within existing systems to change them or do you reject those system
 Malcolm X's genius — and his evolution — was that his answers to these questions changed as he grew. The early Malcolm gave one set of answers. The post-Mecca Malcolm was moving toward different ones entirely when he was assassinated.
 
 That evolution is what makes him one of the most important thinkers in American history.
+
+---
+
+## Sources
+
+**Martin Delany**
+- Martin Delany, *The Condition, Elevation, Emigration and Destiny of the Colored People of the United States* (1852) — primary source; Delany's foundational black nationalist argument
+- Cyril Griffith, *The African Dream: Martin R. Delany and the Emergence of Pan-African Thought* (1975)
+
+**Marcus Garvey**
+- Marcus Garvey, *Philosophy and Opinions of Marcus Garvey* (1923, edited by Amy Jacques Garvey) — primary source; Garvey's own writings and speeches
+- Colin Grant, *Negro with a Hat: The Rise and Fall of Marcus Garvey* (2008) — the most thorough modern biography; source for the corrected membership estimates
+- Theodore Vincent, *Black Power and the Garvey Movement* (1971)
+
+**W.E.B. Du Bois**
+- W.E.B. Du Bois, *The Souls of Black Folk* (1903) — primary source; foundational text including the "Talented Tenth" argument
+- W.E.B. Du Bois, *Dusk of Dawn* (1940) — Du Bois's intellectual autobiography
+
+**On the Garvey vs Du Bois Conflict**
+- David Levering Lewis, *W.E.B. Du Bois: The Fight for Equality and the American Century* (2000) — Pulitzer Prize-winning biography
+
+**On the Nation of Islam**
+- Elijah Muhammad, *Message to the Blackman in America* (1965) — primary source; NOI theology and political philosophy
+- Claude Andrew Clegg III, *An Original Man: The Life and Times of Elijah Muhammad* (1997)
 
 ---
 

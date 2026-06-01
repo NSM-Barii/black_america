@@ -110,6 +110,23 @@ His entire early message was essentially: **you have been deliberately made to f
 
 ---
 
+## Sources
+
+**Primary Sources / Survivor Accounts**
+- Olaudah Equiano, *The Interesting Narrative of the Life of Olaudah Equiano* (1789) — one of the most important firsthand accounts of the Middle Passage by an enslaved African
+- Alexander Falconbridge, *An Account of the Slave Trade on the Coast of Africa* (1788) — account by a former slave ship surgeon
+
+**Academic Histories**
+- Marcus Rediker, *The Slave Ship: A Human History* (2007) — the definitive modern history of the Middle Passage; source for tight packing, ship conditions, and the 400+ revolt figure
+- Stephanie Smallwood, *Saltwater Slavery* (2007) — on the Middle Passage as a process of commodification and identity destruction
+- Trans-Atlantic Slave Trade Database — [slavevoyages.org](https://www.slavevoyages.org) — documents individual voyage mortality data
+
+**On the Breaking Process / Psychological Impact**
+- Orlando Patterson, *Slavery and Social Death* (1982) — foundational academic work on how slavery functioned as total social erasure
+- Kenneth Stampp, *The Peculiar Institution* (1956) — on the mechanics of American slavery including the deliberate destruction of African identity
+
+---
+
 ## Connected Topics
 - [[The Transatlantic Slave Trade]]
 - [[Malcolm X]]

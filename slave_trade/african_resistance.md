@@ -108,6 +108,30 @@ That tradition runs from Jemmy at Stono, to Toussaint in Haiti, to Nat Turner in
 
 ---
 
+## Sources
+
+**On the Stono Rebellion**
+- South Carolina Negro Act of 1740 — primary legislative document; archived at the South Carolina Department of Archives and History
+- Peter Wood, *Black Majority: Negroes in Colonial South Carolina* (1974) — definitive history of the Stono Rebellion
+
+**On Haiti**
+- C.L.R. James, *The Black Jacobins: Toussaint L'Ouverture and the San Domingo Revolution* (1938) — the foundational history of the Haitian Revolution
+- Laurent Dubois, *Avengers of the New World: The Story of the Haitian Revolution* (2004)
+
+**On Nat Turner**
+- Nat Turner, *The Confessions of Nat Turner* (1831) — primary source; Turner's account as recorded by Thomas Gray
+- Herbert Aptheker, *American Negro Slave Revolts* (1943) — the first comprehensive academic catalog of slave resistance in America
+
+**On Frederick Douglass**
+- Frederick Douglass, *Narrative of the Life of Frederick Douglass, an American Slave* (1845) — primary source
+- Frederick Douglass, *My Bondage and My Freedom* (1855) — expanded autobiography
+
+**On the Underground Railroad / Harriet Tubman**
+- Kate Clifford Larson, *Bound for the Promised Land: Harriet Tubman* (2004) — the most thoroughly sourced biography
+- Catherine Clinton, *Harriet Tubman: The Road to Freedom* (2004)
+
+---
+
 ## Connected Topics
 - [[The Transatlantic Slave Trade]]
 - [[The Middle Passage & The Breaking Process]]

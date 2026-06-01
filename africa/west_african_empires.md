@@ -14,7 +14,7 @@ By the time Arab scholars were writing about it in the 9th century, Ghana's king
 
 ## The Mali Empire (1235–1600 AD)
 
-Mali rose after Ghana declined. Its most famous ruler was **[[Mansa Musa]]**, who ruled from 1312–1337. He is documented by historians as the **wealthiest individual in all of human history** — not black history, ALL of human history. His wealth in today's dollars is estimated at $400 billion, though some economists say it is simply uncalculable.
+Mali rose after Ghana declined. Its most famous ruler was **[[Mansa Musa]]**, who ruled from 1312–1337. He is widely estimated as one of the **wealthiest individuals in recorded history** — his 1324 Hajj flooded Egypt with so much gold that the market took 12 years to recover. His wealth in today's dollars is estimated at $400 billion, though comparing wealth across centuries is methodologically difficult and the exact figure cannot be verified.
 
 In 1324 he made his **Hajj to Mecca**. He traveled with:
 - 60,000 people
@@ -65,6 +65,25 @@ While Europe was in its Dark Ages — plagues, feudalism, widespread illiteracy 
 - Global cultural and intellectual influence
 
 This is not mythology. This is documented by Arab scholars, European mapmakers, and modern archaeology.
+
+---
+
+## Sources
+
+**Primary Sources**
+- Al-Bakri, *Book of Routes and Realms* (1068) — earliest major Arab account of the Ghana Empire
+- Al-Umari, *Masalik al-Absar* (1337) — firsthand account of Mansa Musa's Hajj and its economic impact on Egypt
+- Ibn Battuta, *Rihla* (1354) — eyewitness account of the Mali Empire under Mansa Suleyman
+
+**Academic Histories**
+- Nehemia Levtzion, *Ancient Ghana and Mali* (1973) — definitive academic history of both empires
+- Nehemia Levtzion & J.F.P. Hopkins (eds.), *Corpus of Early Arabic Sources for West African History* (1981) — translated Arab primary sources
+- Nehemia Levtzion & Randall Pouwels (eds.), *The History of Islam in Africa* (2000)
+- Elias Saad, *Social History of Timbuktu* (1983) — on Sankore University and intellectual life
+
+**On Sankore / Manuscripts**
+- Ahmed Baba Institute of Higher Learning and Islamic Research, Timbuktu — currently digitizing recovered manuscripts
+- Shamil Jeppie & Souleymane Bachir Diagne (eds.), *The Meanings of Timbuktu* (2008)
 
 ---
 

@@ -103,6 +103,23 @@ The poverty of Haiti today is not an accident. It is the direct result of delibe
 
 ---
 
+## Sources
+
+**The Foundational History**
+- C.L.R. James, *The Black Jacobins: Toussaint L'Ouverture and the San Domingo Revolution* (1938) — the essential history of the Haitian Revolution; still the standard reference
+- Laurent Dubois, *Avengers of the New World: The Story of the Haitian Revolution* (2004) — the best modern academic history
+- Laurent Dubois, *Haiti: The Aftershocks of History* (2012) — on the long-term consequences including the French debt
+
+**On the French Debt**
+- Catherine Porter, Constant Méheut, Matt Apuzzo & Selam Gebrekidan, "The Ransom," *The New York Times* (May 20, 2022) — the landmark investigative series documenting the $21–115 billion in lost development; [nytimes.com/2022/05/20/world/americas/haiti-history-colonized-france](https://www.nytimes.com/2022/05/20/world/americas/haiti-history-colonized-france.html)
+
+**On US Occupation**
+- Mary Renda, *Taking Haiti: Military Occupation and the Culture of U.S. Imperialism 1915–1940* (2001)
+- Hans Schmidt, *The United States Occupation of Haiti 1915–1934* (1971)
+
+**On Dutty Boukman**
+- David Geggus, *Haitian Revolutionary Studies* (2002) — the most scholarly treatment of the Bois Caïman ceremony and its historical evidence
+
 ## Key Figures
 - [[Dutty Boukman]] — ignited the revolution, August 1791
 - [[Toussaint L'Ouverture]] — military genius, died in French prison 1803

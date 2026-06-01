@@ -72,6 +72,23 @@ This is the part that connects directly to [[Malcolm X]]. When he talked about b
 
 ---
 
+## Sources
+
+**Primary Database**
+- Trans-Atlantic Slave Trade Database — [slavevoyages.org](https://www.slavevoyages.org) — the authoritative academic database of documented slave voyages; source for the 12.5 million and 1.8 million figures
+
+**Academic Histories**
+- Hugh Thomas, *The Slave Trade: The Story of the Atlantic Slave Trade 1440–1870* (1997) — comprehensive single-volume history
+- Walter Rodney, *How Europe Underdeveloped Africa* (1972) — on the broader demographic and economic destruction; source for the 100 million estimate
+- Patrick Manning, *Slavery and African Life* (1990) — demographic analysis of the slave trade's population impact
+- John Thornton, *Africa and Africans in the Making of the Atlantic World* (1992) — on African agency, participation, and the complexity of African complicity
+- Robin Blackburn, *The Making of New World Slavery* (1997) — on chattel slavery as a distinct system
+
+**On Dahomey Specifically**
+- Edna Bay, *Wives of the Leopard: Gender, Politics and Culture in the Kingdom of Dahomey* (1998)
+
+---
+
 ## Connected Topics
 - [[West Africa - The Empire Era]]
 - [[Malcolm X]]
