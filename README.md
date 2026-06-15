@@ -34,6 +34,12 @@ I'm **Bari**. Currently reading *The Autobiography of Malcolm X* and building th
 
 ---
 
+## Start Here
+
+**[The Things I Must Know](the_things_i_must_know.md)** — the 11 non-negotiable stories and facts. Know these cold before anything else.
+
+---
+
 ## Vault Structure
 
 ```
